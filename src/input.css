@@ -1,4 +1,7 @@
 @import "tailwindcss";
+:root{
+  scroll-behavior: smooth;
+}
 .navigation a {
     position: relative;
     margin-left: 20px;
